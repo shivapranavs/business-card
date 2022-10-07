@@ -1,0 +1,14 @@
+.desc {
+    color: white;
+    text-align: left;
+    padding: 24px 20px;
+    background-color: #19191F;
+}
+
+.about-section > h4, .interest-section > h4 {
+    color: #FAFAFA;
+}
+
+.about-section > p, .interest-section > p {
+    color: #56565D;
+}

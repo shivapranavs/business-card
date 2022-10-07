@@ -1,0 +1,47 @@
+body {
+    background-color: #202026;
+    width: 300px;
+}
+img {
+    width: 300px;
+    height: 250px;
+}
+.profile {
+    text-align: center;
+    background-color: #19191F;
+}
+
+.info-name {
+    font-size: 28px;
+    font-weight: 600;
+    color: white;
+}
+
+.info-role {
+    font-weight: 100;
+    margin-top: -20px;
+    margin-bottom: 30px;
+    color:sandybrown;
+}
+
+.btn {
+    margin-right: 24px;
+}
+
+.email-btn {
+    font-size: 14px;
+    padding: 8px 32px;
+    background-color: aliceblue;
+    border-color: aliceblue;
+    margin-right: 16px;
+    border-radius: 8px;
+}
+
+.linkedin-btn {
+    font-size: 14px;
+    padding: 8px 32px;
+    border-color: #0A86C2;
+    background-color: #0A86C2;
+    color: white;
+    border-radius: 8px;
+}
